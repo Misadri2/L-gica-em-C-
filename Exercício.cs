@@ -10,8 +10,6 @@ using System;
             int age = int.Parse(Console.ReadLine());
             Console.WriteLine("Você tem: " + age );
            
-
-
         }
     }
 }
