@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "JzgWz3GisUVR2S2x9EkyV11LiWUPQHJcOHl7z8ez9PhAtzrFyso/qvgnf610bPK1kBc5E/aCfAkqvHytPWvQHg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user\\Projetos\\Lógica em C#\\Arranjos\\Arranjos2\\Arranjos2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.11\\microsoft.netcore.app.host.win-x64.3.1.11.nupkg.sha512"
+  ],
+  "logs": []
+}

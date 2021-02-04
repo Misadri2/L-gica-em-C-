@@ -1,0 +1,13 @@
+C:\Users\user\Projetos\Lógica em C#\Arranjos\Arranjos\bin\Debug\netcoreapp3.1\Arranjos.exe
+C:\Users\user\Projetos\Lógica em C#\Arranjos\Arranjos\bin\Debug\netcoreapp3.1\Arranjos.deps.json
+C:\Users\user\Projetos\Lógica em C#\Arranjos\Arranjos\bin\Debug\netcoreapp3.1\Arranjos.runtimeconfig.json
+C:\Users\user\Projetos\Lógica em C#\Arranjos\Arranjos\bin\Debug\netcoreapp3.1\Arranjos.runtimeconfig.dev.json
+C:\Users\user\Projetos\Lógica em C#\Arranjos\Arranjos\bin\Debug\netcoreapp3.1\Arranjos.dll
+C:\Users\user\Projetos\Lógica em C#\Arranjos\Arranjos\bin\Debug\netcoreapp3.1\Arranjos.pdb
+C:\Users\user\Projetos\Lógica em C#\Arranjos\Arranjos\obj\Debug\netcoreapp3.1\Arranjos.csprojAssemblyReference.cache
+C:\Users\user\Projetos\Lógica em C#\Arranjos\Arranjos\obj\Debug\netcoreapp3.1\Arranjos.AssemblyInfoInputs.cache
+C:\Users\user\Projetos\Lógica em C#\Arranjos\Arranjos\obj\Debug\netcoreapp3.1\Arranjos.AssemblyInfo.cs
+C:\Users\user\Projetos\Lógica em C#\Arranjos\Arranjos\obj\Debug\netcoreapp3.1\Arranjos.csproj.CoreCompileInputs.cache
+C:\Users\user\Projetos\Lógica em C#\Arranjos\Arranjos\obj\Debug\netcoreapp3.1\Arranjos.dll
+C:\Users\user\Projetos\Lógica em C#\Arranjos\Arranjos\obj\Debug\netcoreapp3.1\Arranjos.pdb
+C:\Users\user\Projetos\Lógica em C#\Arranjos\Arranjos\obj\Debug\netcoreapp3.1\Arranjos.genruntimeconfig.cache
